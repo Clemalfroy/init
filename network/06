@@ -1,0 +1,2 @@
+/etc/resolv.conf 
+C'est l'endroit ou est stocke l'adresse IP du serveur DNS pour que le pc sache laquelle utiliser.
